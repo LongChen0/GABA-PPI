@@ -55,3 +55,9 @@ We built a machine learning model to predict binding affinity.
 ```
 python BA_value_fei_SVM_con.py
 ```
+## Reference
+1. Chen, Dong, et al. "Extracting predictive representations from hundreds of millions of molecules." The journal of physical chemistry letters 12.44 (2021): 10793-10801.
+2. Winter, Robin, et al. "Learning continuous and data-driven molecular descriptors by translating equivalent chemical representations." Chemical science 10.6 (2019): 1692-1701.
+
+## License
+All codes released in this study is under the MIT License.
