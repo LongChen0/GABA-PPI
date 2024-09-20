@@ -43,3 +43,15 @@ mkdir bt_pro/fairseq/data
 python setup.py build_ext --inplace
 mv ./bt_pro/fairseq/data/* ./fairseq/data/
 ```
+## Generate molecular fingerprints
+After creating the environment, the following code is used to generate AE fingerprints and BET fingerprints respectively.
+```
+Python generate_AE_feature.py
+Python generate_BET_feature.py
+```
+
+## Build machine learning model with the molecular fingerprints
+We built a machine learning model to predict binding affinity.
+```
+python BA_value_fei_SVM_con.py
+```
