@@ -23,7 +23,7 @@ git clone https://github.com/LongChen0/GABA-PPI.git
 ```
 ## Install the pretrained model for molecular fingerprint generation
 ### AE fingerprint environment
-The AE feature generation follows the work "Learning Continuous and Data-Driven Molecular Descriptors by Translating Equivalent Chemical Representations" by Robin Winter, Floriane Montanari, Frank Noe and Djork-Arne Clevert.
+The autoencoder (AE) feature generation follows the work "Learning Continuous and Data-Driven Molecular Descriptors by Translating Equivalent Chemical Representations" by Robin Winter, Floriane Montanari, Frank Noe and Djork-Arne Clevert.
 ```
 git clone https://github.com/jrwnter/cddd.git
 
@@ -32,7 +32,7 @@ conda env create -f environment.yml
 source activate cddd
 ```
 ### BET fingerprint environment
-The BET feature generation follows the work "Extracting Predictive Representations from Hundreds of Millions of Molecules" by Dong Chen, Jiaxin Zheng, Guo-Wei Wei, and Feng Pan.
+The bidirectional encoder transformer (BET) feature generation follows the work "Extracting Predictive Representations from Hundreds of Millions of Molecules" by Dong Chen, Jiaxin Zheng, Guo-Wei Wei, and Feng Pan.
 ```
 git clone https://github.com/WeilabMSU/PretrainModels.git
 
