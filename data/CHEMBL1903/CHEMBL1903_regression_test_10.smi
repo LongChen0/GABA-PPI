@@ -1,0 +1,9 @@
+Cl.O=C(O)[C@@H]1CCCN(CCC=C(c2sccc2COCc2ccccc2)c2sccc2COCc2ccccc2)C1
+O=C(O)C1CCCN(CCOC(c2ccccc2)(c2ccccc2)c2ccccc2)C1
+COc1ccc(C(OCCN2CCCC(C(=O)O)C2)(c2ccccc2)c2cccc(C(F)(F)F)c2)cc1C(F)(F)F
+Cl.O=C(O)C1CCN(CCC=C(c2sccc2COc2ccccc2)c2sccc2COc2ccccc2)CC1
+O=C(O)[C@@H]1CCCN(CCOCCN2c3ccccc3C=Cc3ccccc32)C1
+O=C(O)[C@@H]1CCCN(CC/C=C(/c2ccccc2)c2c(F)cccc2F)C1
+O=C(O)[C@@H]1CCCN(CC/C=C(\c2ccccc2)c2ccccc2F)C1
+O=C(O)[C@@H]1CCCN(CC/C=C(\c2ccccc2)c2ccccc2Cl)C1
+CCc1ccccc1/C(=C\CCN1CCC[C@@H](C(=O)O)C1)c1ccccc1F

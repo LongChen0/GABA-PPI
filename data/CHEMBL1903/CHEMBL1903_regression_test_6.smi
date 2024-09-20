@@ -1,0 +1,10 @@
+COc1ccc(C(SCCN2CCCC(C(=O)O)C2)(c2ccc(OC)cc2)c2ccc(OC)cc2)cc1
+Cl.O=C(O)[C@@H]1CCCN(CCC=C(c2sccc2COC2CCCCC2)c2sccc2COC2CCCCC2)C1
+O=C(O)C1CCCN(CCOC2(c3ccccc3)c3ccccc3-c3ccccc32)C1
+Cl.O=C(O)C1CCN(CCC=C(c2sccc2COC2CCCCC2)c2sccc2COC2CCCCC2)CC1
+O=C(O)C1CCCN(CCC=C(c2ccccc2)c2ccccc2)C1
+O=C(O)[C@@H]1CCCN(CCOCCN2c3ccccc3Sc3ccccc32)C1
+Cc1ccccc1/C(=C\CCN1CCC[C@@H](C(=O)O)C1)c1ccccc1C(F)(F)F
+Cc1ccc(C(=CCCN2CCCC(F)(C(=O)O)C2)c2ccc(C)s2)s1
+Cc1ccccc1/C(=C\CCN1CCC[C@@H](C(=O)O)C1)c1ccccc1
+Cc1ccccc1/C(=C\CCN1CCC[C@@H](C(=O)O)C1)c1ccccc1F

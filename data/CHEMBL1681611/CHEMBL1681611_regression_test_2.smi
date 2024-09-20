@@ -1,0 +1,17 @@
+COn1c(NC(C)c2ccc(Cl)cc2)nc2c(c1=O)CN(C(=O)COc1ccc(Cl)cc1)CC2
+CC#CCn1c(N[C@@H](C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)c1ccc(C#N)cc1F)CC2.Cl
+CC#CCn1c(N[C@@H](C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)c1ccc(-c3cnco3)cc1)CC2.Cl
+COn1c(NC(C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)COc1ccc(Cl)cc1)CC2
+COn1c(N[C@@H](C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)c1ccc(C)s1)CC2
+COn1c(NC(C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)c1ccc(C)c(C)c1)CC2
+COn1c(NC(C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)/C=N/c1ccc(Cl)cc1)CC2
+CC#CCn1c(N[C@@H](C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)c1ccc(Cl)cc1)CC2.Cl
+C#CCCn1c(N[C@@H](C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)c1ccc(C#N)cc1)CC2
+CC[C@H](Nc1nc2c(c(=O)n1OC)CN(C(=O)c1ccc(C#N)cc1F)CC2)c1ccc(C(F)(F)F)cc1
+C#CCCn1c(N[C@@H](C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)c1nc3ccccc3[nH]1)CC2
+COn1c(NC(C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)c1ccc3c(c1)CCC(=O)N3C)CC2
+COn1c(NC(C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)c1ccc3c(c1)OCCO3)CC2
+COn1c(N[C@@H](C)C2CCCCC2)nc2c(c1=O)CN(C(=O)c1ccc(Cl)cc1)CC2
+COn1c(N[C@@H](C)c2ccc(C(F)(F)F)cc2)nc2c(c1=O)CN(C(=O)c1cc3c(s1)=CCCC=3)CC2
+COn1c(NC(C)C2CCCCC2)nc2c(c1=O)CN(C(=O)c1ccc(C#N)cc1F)CC2
+COn1c(NC(c2ccc(Cl)cc2)C(C)C)nc2c(c1=O)CN(C(=O)c1ccc(-n3ccnc3)cc1)CC2

@@ -1,0 +1,17 @@
+CC(=O)Nc1sc2c(c1-c1nc(-c3ccccc3)cs1)CCN(C(C)C)C2
+O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12
+O=C(O)CN1C(=O)/C(=C2\SC(=S)N(c3ccc(Br)cc3)C2=O)c2ccccc21
+CC(=O)Nc1sc2c(c1-c1nc3ccccc3s1)CCCN(C(C)C)C2
+COc1cc2c(ccc3cc(OC)c(OC)c(O)c32)cc1O
+O=C(O)CCC1=C(Br)C(=O)c2ccccc2C1=O
+O=C(O)CCSc1nnc(SCCC(=O)O)s1
+O=C(O)CCCN1C(=O)/C(=C2/C(=O)N(CC(=O)O)c3ccccc32)SC1=S
+C#CCCC(=O)Nc1sc2c(c1-c1nc3ccccc3s1)CCNC2
+O=C(O)CCn1c(=S)n(CCC(=O)O)c2ccccc21
+Cc1ccc2c(c1)c1nnc(SCc3ccc(CC(=O)O)cc3)nc1n2C(=O)O
+Cc1nc2ccc(C(=O)O)cc2c(O)c1CCC(=O)O
+Cc1ccc(S(=O)(=O)n2cccc2[C@@H]2NC(=O)[C@H](Cc3c[nH]c4ccccc34)NC(=O)C(c3ccccc3)CCOC(=O)C/C=C/[C@@H]2C)cc1
+O=C(O)CN1C(=O)/C(=C2/C(=O)N(CC(=O)O)c3ccccc32)SC1=S
+CCN(CC)S(=O)(=O)c1cccc(C(=O)Nc2ccccc2C(=O)O)c1
+C[C@H]1/C=C/CC(=O)N[C@H](c2ccc(C(F)(F)F)cc2)CC(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(=O)N[C@H]1c1ccccc1
+CCN(CC)CCNc1ccc(CO)c2sc3ccccc3c(=O)c12

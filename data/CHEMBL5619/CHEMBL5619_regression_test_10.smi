@@ -1,0 +1,17 @@
+CC(C)N1CCc2c(sc(NC(=O)C3CCCCC3)c2-c2nc3ccccc3s2)C1
+CC(C)(C)c1ccc(OC(=O)c2sc3ccccc3c2Cl)c(C(C)(C)C)c1
+O=c1oc(-c2ccccc2F)nc2cc(Cl)ccc12
+O=C(Nc1sc2c(c1-c1nc3ccccc3s1)CCNC2)C(F)(F)F
+O=C(O)CCS(=O)(=O)c1cccc2c(S(=O)(=O)CCC(=O)O)cccc12
+CC(=O)Nc1sc2c(c1-c1nc3ccccc3s1)CN(C(C)C)C2
+O=C(O)CCc1nc2cc(C(=O)O)ccc2[nH]1
+Cc1c(C(=O)OCC2CCCO2)[nH]c2c1C(=O)CC(c1ccco1)C2
+O=C1NC(=O)N(Cc2ccco2)C(=O)/C1=C/C=C/c1ccco1
+O=C(c1ccc2c(c1)C(=O)N(c1ccccc1C(=O)O)C2=O)c1ccc2c(c1)C(=O)N(c1ccccc1C(=O)O)C2=O
+C/C(CCc1ccc2c(c1)OCO2)=N\N=C1/NC(=O)CC(C(=O)O)S1
+CCCC/C(=C\C1=C(C)C(=O)C(OC)=C(OC)C1=O)C(=O)O
+O=C(O)c1cccc(S(=O)(=O)N2CCCC(c3nc(O)c4nnn(Cc5ccccc5Cl)c4n3)C2)c1
+Nc1c(S(=O)(=O)O)cc(Nc2ccc(Nc3nc(Cl)nc(Nc4ccc(S(=O)(=O)O)cc4)n3)c(S(=O)(=O)O)c2)c2c1C(=O)c1ccccc1C2=O
+Cc1ccc(S(=O)(=O)n2cccc2[C@@H]2NC(=O)[C@H](Cc3c[nH]c4ccccc34)NC(=O)C[C@@H](Cc3ccc(Cl)cc3)NC(=O)C/C=C/[C@@H]2C)cc1
+Cc1sc(Nc2cc(Cl)cc(Cl)c2)nc1-c1ccc(-c2ccccc2F)cc1
+Cc1ccc(S(=O)(=O)n2cccc2[C@@H]2NC(=O)[C@H](Cc3c[nH]c4ccccc34)NC(=O)CCCNC(=O)C/C=C/[C@@H]2C)cc1

@@ -1,0 +1,10 @@
+N[C@H](C(=O)O)[C@H](OCc1cccs1)C(=O)O
+N[C@H](C(=O)O)[C@H](OCc1cccc(NC(=O)c2ccccc2C(F)(F)F)c1)C(=O)O
+N[C@@H](CC(=O)Nc1ccc(Oc2ccc(F)c(F)c2)cc1)C(=O)O
+N[C@@H](CCC(=O)O)C(=O)O
+N[C@H](C(=O)O)C(NS(=O)(=O)c1ccc(F)cc1)C(=O)O
+N[C@H](C(=O)O)[C@H](Cc1ccccc1)C(=O)O
+N[C@H](C(=O)O)C(NS(=O)(=O)c1cc(F)c(F)cc1F)C(=O)O
+N[C@@H](C[C@@H](Cc1ccccc1)C(=O)O)C(=O)O
+N[C@H](C(=O)O)[C@@H]1CC[C@@H]1C(=O)O
+COC(=O)CC[C@H](C[C@H](N)C(=O)O)C(=O)O

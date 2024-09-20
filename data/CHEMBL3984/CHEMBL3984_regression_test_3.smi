@@ -1,0 +1,10 @@
+Cc1cc(O)cc(Nc2ccnc3cc(-c4ccccn4)ccc23)c1
+Oc1cccc(Nc2ccnc3cc(-c4ccncc4)ccc23)c1
+CC(C)n1c(=O)c2cnc(Nc3ccc4c(c3)CNCC4)nc2n1-c1nc(C(C)(C)C)c(Cl)s1
+CC(C)n1c(=O)c2cnc(Nc3ccc4c(c3)CCNC4)nc2n1-c1ccc(F)c(C(C)(C)F)n1
+N#CC1(c2cccc(-n3c4nc(Nc5ccc6c(c5)CNCC6)ncc4c(=O)n3CC(F)(F)F)n2)CC1
+CNC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCOCC3)cc2)ncc1Cl
+Cc1ccc(O)cc1-n1c(N)c(C(N)=O)c2nc3ccccc3cc21
+Cc1ccc(O)c(C)c1-n1c(N)c(C(N)=O)c2nc(C)c(C)nc21
+Cc1ccc(O)c(C)c1-n1c(N)c(C(N)=O)c2nc(C(C)(C)O)cnc21
+CSc1cccc(Nc2ncc3cc(-c4c(Cl)cccc4Cl)c(=O)n(C)c3n2)c1

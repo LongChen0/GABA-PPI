@@ -1,0 +1,9 @@
+O=C(O)[C@@H](O)[C@H]1CCCN1CCC=C(c1ccccc1)c1ccccc1
+Cl.O=C(O)C1CCN(CCC=C(c2sccc2COCc2ccccc2)c2sccc2COCc2ccccc2)CC1
+COCc1ccsc1C(=CCCN1CCCCC1C(=O)O)c1sccc1COC.Cl
+O=C(O)[C@H]1CNC[C@@H](CN/N=C/c2ccc(-c3cccc4ccccc34)o2)C1
+O=C(O)[C@@H]1CCCN(CC/C=C(\c2ccccc2)c2ccccc2-c2ccccc2)C1
+COc1ccccc1/C(=C\CCN1CCC[C@@H](C(=O)O)C1)c1ccccc1
+O=C(O)[C@@H]1CCCN(CC/C=C(\c2ccccc2)c2c(F)cccc2F)C1
+O=C(O)[C@@H]1CCCN(CC/C=C(\c2ccccc2)c2ccccc2OC(F)(F)F)C1
+Cc1ccccc1/C(=C\CCN1CCC[C@@H](C(=O)O)C1)c1ccccc1Cl
